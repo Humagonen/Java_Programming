@@ -1,7 +1,5 @@
 # Data Structures and Algorithms                     
 
-[TOC]
-
 ---
 
 ## 1. Arrays and Strings
