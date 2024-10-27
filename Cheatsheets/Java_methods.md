@@ -1,6 +1,6 @@
 # Java Programming
 
-## Output Methods
+# Output Methods
 
 The `System.out` stream, short for "**output**", is used together with different methods to output values or print text to the console:
 
@@ -10,7 +10,7 @@ The `System.out` stream, short for "**output**", is used together with differe
 | [printf()](https://www.w3schools.com/java/ref_output_printf.asp) | Prints formatted text or values to the console |
 | [println()](https://www.w3schools.com/java/ref_output_println.asp) | Prints text or values to the console, followed by a new line |
 
-## Java Reserved Keywords
+# Java Reserved Keywords
 
 Java has a set of keywords that are reserved words that cannot be used as variables, methods, classes, or any other identifiers:
 
@@ -73,7 +73,7 @@ Java has a set of keywords that are reserved words that cannot be used as variab
 
 **Note:** `true`, `false`, and `null` are not keywords, but they are literals and reserved words that cannot be used as identifiers.
 
-## All String Methods
+# All String Methods
 
 The String class has a set of built-in methods that you can use on strings.
 
@@ -119,7 +119,7 @@ The String class has a set of built-in methods that you can use on strings.
 | [trim()](https://www.w3schools.com/java/ref_string_trim.asp) | Removes whitespace from both ends of a string | String |
 | [valueOf()](https://www.w3schools.com/java/ref_string_valueof.asp) | Returns the string representation of the specified value | String |
 
-## All Math Methods
+# All Math Methods
 
 A list of all Math methods can be found in the table below:
 
@@ -175,7 +175,7 @@ A list of all Math methods can be found in the table below:
 
 **Note:** All Math methods are `static`.
 
-## Arrays Methods
+# Arrays Methods
 
 A list of popular methods of the Arrays Class can be found in the table below:
 
@@ -197,7 +197,7 @@ A list of popular methods of the Arrays Class can be found in the table below:
 
 The `length` property is a built-in Java property, and does not belong to the Arrays class.
 
-## All ArrayList Methods
+# All ArrayList Methods
 
 A list of all ArrayList methods can be found in the table below.
 
@@ -231,7 +231,7 @@ Some methods use the type of the ArrayList's items as a parameter or return valu
 | [toArray()](https://www.w3schools.com/java/ref_arraylist_toarray.asp) | Return an array containing the list's items | Object[] |
 | [trimToSize()](https://www.w3schools.com/java/ref_arraylist_trimtosize.asp) | Reduce the capacity of the list to match the number of items if necessary | Object[] |
 
-## All LinkedList Methods
+# All LinkedList Methods
 
 A list of all LinkedList methods can be found in the table below.
 
@@ -292,7 +292,7 @@ Some methods use the type of the LinkedList's items as a parameter or return val
 
 [Java ArrayList Tutorial](https://www.w3schools.com/java/java_arraylist.asp)
 
-## All HashMap Methods
+# All HashMap Methods
 
 A list of all HashMap methods can be found in the table below.
 
@@ -327,7 +327,7 @@ Some methods use the type of the HashMap's entries as a parameter or return valu
 
 [Java HashMap Tutorial](https://www.w3schools.com/java/java_hashmap.asp)
 
-## Errors and Exception Types
+# Errors and Exception Types
 
 The table below shows a list of common `Error` and `Exception` types in Java:
 
@@ -356,7 +356,7 @@ The table below shows a list of common `Error` and `Exception` types in Java
 | IllegalArgumentException | Occurs when when an illegal argument is passed to a method |
 | IllegalStateException | Occurs when when a method is called at an illegal time |
 
-## Java Iterator Methods
+# Java Iterator Methods
 
 The `Iterator` interface provides methods to access and iterate through collections:
 
